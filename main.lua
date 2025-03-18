@@ -1,5 +1,5 @@
 function love.load()
-    love.window.setTitle("Bubble Generator! - Raine Nagrit :)")
+    love.window.setTitle("Bubble Generator! - AAOOII-RN :)")
     love.graphics.setDefaultFilter("nearest")
     Bubbles = {}
     T = -1
